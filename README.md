@@ -1,6 +1,6 @@
 <div align = "center">
   
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Jae&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Jae&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
 ####  :wave: Welcome to my github profile !
