@@ -25,9 +25,9 @@
 
 #### 🖥️: What i've done
 
-|23-10|개인웹페이지(HTML,CSS,JAVASCRIPT)|   |
-|:-:|:-:|:-:|
-|23-10|게시판구현(CRUD, MYBATIS연결|   |
+|---23-10---|개인웹페이지(HTML,CSS,JAVASCRIPT)
+|:-:|:-:|
+|---23-10---|게시판구현(CRUD, MYBATIS연결
 
 
 
