@@ -26,9 +26,9 @@
 
 #### 🖥️: What i've done
 
-|---23-10---|[개인웹페이지](https://github.com/Jaehyuk-96/java_board_project)(HTML,CSS,JAVASCRIPT)
+|---23-10---|개인웹페이지(HTML,CSS,JAVASCRIPT)
 |:-:|:-:|
-|---23-10---|게시판구현(CRUD기능, MYBATIS연결)
+|---23-10---|[게시판구현](https://github.com/Jaehyuk-96/java_board_project)(CRUD기능, MYBATIS연결)
 
 
 
