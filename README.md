@@ -4,13 +4,13 @@
 
 
 ###  :wave: Welcome to my github profile !
-
+---
 
 <br/>
 <br/>
 
 ####  :clipboard: Once I've Used
-
+---
 <br/>
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -25,7 +25,7 @@
 
 
 #### 🖥️: What i've done
-
+---
 |---23-10---|[개인웹페이지](https://github.com/Jaehyuk-96/web_project)(HTML,CSS,JAVASCRIPT)
 |:-:|:-:|
 |---23-10---|[게시판구현](https://github.com/Jaehyuk-96/java_board_project)(CRUD기능, MYBATIS연결)
