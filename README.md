@@ -5,7 +5,12 @@
 
 ###  :wave: Welcome !
 ---
+<br/>
+<br/>
 
+###  📞: Contact
+---
+E-mail: jaehyuck009603@gmail.com
 <br/>
 <br/>
 
