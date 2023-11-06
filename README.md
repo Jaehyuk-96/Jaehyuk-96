@@ -24,6 +24,12 @@
 <br/>
 <br/>
 
+### 📑: Studying
+  <img src="https://img.shields.io/badge/Spring-6db33f)?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>	
+	<img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+
 
 ### 🖥️: What i've done
 ---
