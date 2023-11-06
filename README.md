@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-####  :clipboard: Once I've Used
+###  :clipboard: Once I've Used
 ---
 <br/>
 
@@ -25,7 +25,7 @@
 <br/>
 
 
-#### 🖥️: What i've done
+### 🖥️: What i've done
 ---
 
 |기간|프로젝트|
