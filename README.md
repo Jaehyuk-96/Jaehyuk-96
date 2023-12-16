@@ -39,10 +39,13 @@ E-mail: jaehyuck009603@gmail.com
 ### 🖥️: What i've done
 ---
 
-|기간|프로젝트|
-|:-:|:-:|
-|---23.10---|[게시판구현](https://github.com/Jaehyuk-96/java_board_project)(CRUD기능, MYBATIS연결)
-|---23.10---|[개인웹페이지](https://github.com/Jaehyuk-96/web_project)(HTML,CSS,JAVASCRIPT)
+| 기간 | 항목 | 개인/팀 | 링크 |
+|:---:|:---:|:---:|:---:|
+| 23.11 ~ 23.12 | TeacherMarket |  프로젝트 | [🏷](https://github.com/Jaehyuk-96/teacherFleaMarket)|
+| 23.10 ~ 23.11 | ShoppingMall CLI 제작 |  프로젝트 | [🏷](https://github.com/kimg1623/Shopping-CLI-Java) |
+| 23.10 | 게시판 CRUD 기능 구현 및 MyBatis 연결 | 개인 프로젝트 | [🏷]((https://github.com/Jaehyuk-96/java_board_project) |
+| 23.10 | HTML5 / CSS3 / JavaScript를 활용한 웹페이지 만들기 | 개인 프로젝트 | [🏷](https://github.com/Jaehyuk-96/web_project) |
+
 
 
 
