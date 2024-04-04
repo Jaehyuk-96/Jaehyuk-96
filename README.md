@@ -41,7 +41,7 @@ E-mail: jaehyuck009603@gmail.com
 
 | 기간 | 항목 | 개인/팀 | 링크 |
 |:---:|:---:|:---:|:---:|
-| 24.03 ~ 23.03 | Chunjae-Platform |  팀프로젝트 | [🏷]([https://github.com/Jaehyuk-96/CHACK-IT](https://github.com/Chunjae-Final/chunjae-platform-public))|
+| 24.03 ~ 23.03 | Chunjae-Platform |  팀프로젝트 | [🏷](https://github.com/Chunjae-Final/chunjae-platform-public)|
 | 24.02 ~ 23.02 | Class-Archive |  팀프로젝트 | [🏷](https://github.com/Jaehyuk-96/CHACK-IT)|
 | 23.12 ~ 24.01 | Chack-IT |  팀프로젝트 | [🏷](https://github.com/Jaehyuk-96/CHACK-IT)|
 | 23.11 ~ 23.12 | TeacherMarket |  팀프로젝트 | [🏷](https://github.com/Jaehyuk-96/teacherFleaMarket)|
